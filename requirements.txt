@@ -1,0 +1,9 @@
+langchain-google-genai
+langgraph
+langchain
+streamlit
+pandas
+python-dotenv
+google-search-results
+pydantic
+Pillow
